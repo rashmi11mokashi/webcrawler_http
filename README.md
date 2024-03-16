@@ -1,2 +1,2 @@
 # webcrawler_http
-Project creating while revising HTTP/HTTPS using Fetch and RESTAPIs in JavaScript 
+Project created while revising HTTP/HTTPS using Fetch and RESTAPIs in JavaScript 
