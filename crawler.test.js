@@ -1,4 +1,4 @@
-const { normalizeURL, getURLsFromHTML } = require('./crawl.js')
+const { normalizeURL, getURLsFromHTML } = require('./crawler.js')
 const { test, expect } = require('@jest/globals')
 
 test('normalizeURL protocol', () => {
