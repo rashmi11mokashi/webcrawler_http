@@ -1,0 +1,12 @@
+{
+    "name": "webcrawler_http",
+    "version": "1.0.0",
+    "description": "Project creating while studying http",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC"
+}
