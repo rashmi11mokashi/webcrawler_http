@@ -1,4 +1,4 @@
-const { crawlPage } = require('./crawl.js')
+const { crawlPage } = require('./crawler.js')
 
 async function main() {
     if (process.argv.length < 3) {
